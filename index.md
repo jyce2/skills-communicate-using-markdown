@@ -14,6 +14,10 @@ x <- sum(c(1, 2, 3, 4))
 x
 ```
 
+- [x] Practice markdown in Github
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 Add markdown headers
