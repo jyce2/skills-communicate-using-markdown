@@ -8,9 +8,10 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
+```r
 x <- sum(c(1, 2, 3, 4))
 x
-
+```
 
 
 
